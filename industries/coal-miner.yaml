@@ -148,7 +148,7 @@ cargoAcceptance:
 cargoProduction:
 - COAL
 colour: 1
-fundCostMultiplier: 252
+fundCostMultiplier: 232
 id: 8
 layout:
 - - - -1
@@ -210,7 +210,7 @@ layout:
     - 3
   - - 5
     - 4
-name: Coal Mine
+name: Coal Miner
 placement: anywhere
 probabilityInGame: 4
 probabilityMapGen: 10
@@ -224,7 +224,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coal-mine/1.png
+      filename: industries/coal-miner/1.png
       left: -31
       top: -70
 - sprites:
@@ -235,7 +235,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coal-mine/2.png
+      filename: industries/coal-miner/2.png
       left: -31
       top: -70
 - sprites:
@@ -246,7 +246,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coal-mine/3.png
+      filename: industries/coal-miner/3.png
       left: -31
       top: -30
 - sprites:
@@ -257,7 +257,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coal-mine/4.png
+      filename: industries/coal-miner/4.png
       left: -31
       top: -33
 - sprites:
@@ -268,7 +268,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coal-mine/5.png
+      filename: industries/coal-miner/5.png
       left: -31
       top: -33
 - sprites:
@@ -279,7 +279,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coal-mine/6.png
+      filename: industries/coal-miner/6.png
       left: -31
       top: -33
 type: primary
