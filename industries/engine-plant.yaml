@@ -22,7 +22,7 @@ callbacks: |
   accept_cargo_types ctt:CSTI [] 4 =
   accept_cargo_types ctt:ALUM [] 2 =
   accept_cargo_types ctt:SAND [] 2 =
-  prod_cargo_types ctt:VENG [] 6 =
+  prod_cargo_types ctt:VENG [] 5 =
 
 
   /*

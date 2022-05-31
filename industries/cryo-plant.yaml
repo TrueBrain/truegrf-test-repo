@@ -146,7 +146,7 @@ cargoAcceptance: []
 cargoProduction:
 - O2__
 colour: 189
-fundCostMultiplier: 45
+fundCostMultiplier: 92
 id: 11
 layout:
 - - - 1

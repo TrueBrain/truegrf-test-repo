@@ -4,13 +4,13 @@ classes: 32
 colour: 141
 id: 9
 label: CSTI
-longName: cast iron
-name: Cast Iron
+longName: cast iron2
+name: Cast Iron2
 penaltyLength: 240
 penaltyLowerBound: 15
 price: 4934
 sprite:
-  filename: cargoes/cast-iron.png
+  filename: cargoes/cast-iron2.png
   left: 0
   top: 0
 unitName: Tonnes
