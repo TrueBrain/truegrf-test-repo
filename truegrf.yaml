@@ -1,6 +1,7 @@
 description: Your first NewGRF based on FIRS4 Steeltown
-grfid: TRU1
+grfid: f1ef72ed
 license: GPLv2
 name: TrueGRF
+type: industry
 url: https://github.com/TrueBrain/truegrf-test-repo
-version: 3
+version: 6
