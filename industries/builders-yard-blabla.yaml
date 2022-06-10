@@ -76,7 +76,7 @@ layout:
     - 2
   - - 0
     - 3
-name: Builders Yard
+name: Builders Yard BlaBla
 placement: anywhere
 probabilityInGame: 6
 probabilityMapGen: 9
@@ -86,52 +86,52 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/2.png
+      filename: industries/builders-yard-blabla/2.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/1.png
+      filename: industries/builders-yard-blabla/1.png
       left: -31
       top: -26
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/4.png
+      filename: industries/builders-yard-blabla/4.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/3.png
+      filename: industries/builders-yard-blabla/3.png
       left: -31
       top: -26
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/6.png
+      filename: industries/builders-yard-blabla/6.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/5.png
+      filename: industries/builders-yard-blabla/5.png
       left: -31
       top: -34
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/8.png
+      filename: industries/builders-yard-blabla/8.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/7.png
+      filename: industries/builders-yard-blabla/7.png
       left: -31
       top: -26
 type: tertiary
